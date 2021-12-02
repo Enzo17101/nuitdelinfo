@@ -8,10 +8,8 @@
     <link rel="stylesheet" href="css/style.css">
   </head>
   <body>
+    <div class="parallax">
     <header>
-      <div class="imageCenter">
-        <img src="data/Banniere.jpg" alt="Plage de dunkerque" class="banniere">
-      </div>
       <nav>
         <div class="dropdown">
          <button class="dropbtn">Sauveteurs</button>
@@ -80,6 +78,6 @@
       </nav>
     </header>
 
-
+    </div>
   </body>
 </html>

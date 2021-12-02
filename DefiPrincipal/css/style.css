@@ -1,6 +1,7 @@
 html {
   border: 0px;
   padding: 0px;
+  background-color:
 }
 
 header {
@@ -17,13 +18,16 @@ nav {
   justify-content: space-around;
 }
 
-.banniere {
-  max-width:80%;
-  margin-bottom: 15px;
-}
+.parallax {
+  /* The image used */
+  background-image: url("img_parallax.jpg");
 
-.imageCenter {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
