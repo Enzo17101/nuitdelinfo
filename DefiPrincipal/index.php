@@ -9,6 +9,9 @@
   </head>
   <body>
     <div class="parallax"></div>
+    <span>
+        <img src="data/Banniere.jpg" alt="Port de Dunkerque">
+    </span>
     <header>
       <nav>
         <div class="dropdown">
@@ -80,6 +83,6 @@
 
     <div class="parallax"></div>
 
-    
+
   </body>
 </html>
