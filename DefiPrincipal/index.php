@@ -3,6 +3,9 @@
   <head>
     <meta charset="utf-8">
     <title>Sauveteurs du dunkerquois</title>
+    <link rel="stylesheet" href="/css/dropdown.css">
+    <link rel="stylesheet" href="/css/color1.css">
+    <link rel="stylesheet" href="/css/style.css">
   </head>
   <body>
     <header>
