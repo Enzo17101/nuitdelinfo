@@ -30,10 +30,11 @@
         <div class="dropdown">
          <button class="dropbtn">Sauvetage</button>
          <div class="dropdown-content">
-           <a href="#">18ème siècle</a>
-           <a href="#">19ème siècle</a>
-           <a href="#">20ème siècle</a>
-           <a href="#">21ème siècle</a>
+           <a href="#">Techniques</a>
+            <a href="#">Sauvetage des personnes</a>
+            <a href="#">Va et vient</a>
+           <a href="#">Matériel</a>
+           <a href="#">Moyens Maritimes</a>
          </div>
         </div>
         <div class="dropdown">
@@ -48,9 +49,13 @@
          </div>
         </div>
         <div class="dropdown">
-         <button class="dropbtn">Historique</button>
-         <div class="dropdown-content">
-           <a href="#">Dunkerque</a>
+          <button class="dropbtn">Historique</button>
+          <div class="dropdown-content">
+            <a href="#">18ème siècle</a>
+            <a href="#">19ème siècle</a>
+            <a href="#">20ème siècle</a>
+            <a href="#">21ème siècle</a>
+            <a href="#">Dunkerque</a>
          </div>
         </div>
         <div class="dropdown">
