@@ -100,7 +100,11 @@
 
     <div class="parallax"></div>
 
-    <?php include '/var/www/html/nuitdelinfo/DefiPrincipal/php/main.php' ?>
+    <?php
+    if ($_SERVER['SERVER_NAME'].$_SERVER['PHP_SELF'] == 'https://les-roseaux.dev/nuitdelinfo/DefiPrincipal/index.php') {
+      include '/var/www/html/nuitdelinfo/DefiPrincipal/php/main.php';
+    }?>
+
 
 
 
