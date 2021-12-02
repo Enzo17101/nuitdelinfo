@@ -29,26 +29,34 @@
          </div>
         </div>
         <div class="dropdown">
-         <button class="dropbtn">Sauvetage</button>
-         <div class="dropdown-content">
-           <a href="#">Techniques</a>
-            <a href="#">Sauvetage des personnes</a>
-            <a href="#">Va et vient</a>
-           <a href="#">Matériel</a>
-           <a href="#">Moyens Maritimes</a>
-         </div>
-        </div>
-        <div class="dropdown">
-         <button class="dropbtn">Port</button>
+         <button class="dropbtn">Stations</button>
          <div class="dropdown-content">
            <a href="#">Dunkerque</a>
            <a href="#">Gravelines</a>
            <a href="#">Fort-Mardyck</a>
            <a href="#">Malo-les-bains</a>
            <a href="#">Bray-Dunes</a>
-           <a href="#">Sauveteurs-ailleurs</a>
          </div>
+         <div class="dropdown">
+          <button class="dropbtn">Services du port</button>
+          <div class="dropdown-content">
+            <a href="#">Douane</a>
+            <a href="#">Lamanage</a>
+            <a href="#">Pilotage</a>
+            <a href="#">Pont et Chaussées</a>
+            <a href="#">Remorquages</a>
+          </div>
         </div>
+        <div class="dropdown">
+         <button class="dropbtn">Moyens maritimes</button>
+         <div class="dropdown-content">
+           <a href="#">Les canots dunkerquois</a>
+           <a href="#">Lamanage</a>
+           <a href="#">Pilotage</a>
+           <a href="#">Pont et Chaussées</a>
+           <a href="#">Remorquages</a>
+         </div>
+       </div>
         <div class="dropdown">
           <button class="dropbtn">Historique</button>
           <div class="dropdown-content">
@@ -56,7 +64,6 @@
             <a href="#">19ème siècle</a>
             <a href="#">20ème siècle</a>
             <a href="#">21ème siècle</a>
-            <a href="#">Dunkerque</a>
          </div>
         </div>
         <div class="dropdown">
