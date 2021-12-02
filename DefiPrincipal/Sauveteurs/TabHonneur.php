@@ -11,7 +11,7 @@ include "../index.php";
     <title>Tableau d'honneurs</title>
   </head>
   <body>
-    <div class="textOsef">
+    <div class="captiontxt">
       <p> Quel dunkerquois n’a jamais lu les plaques commémoratives  apposées sur
         notre Leughenaer? Sur cette page on trouvera les sauveteurs décorés de  la
          Légion  d’Honneur et ou du Mérite Maritime pour services rendus.
