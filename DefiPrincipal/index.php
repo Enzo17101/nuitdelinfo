@@ -30,10 +30,11 @@
         <div class="dropdown">
          <button class="dropbtn">Sauvetage</button>
          <div class="dropdown-content">
-           <a href="#">18ème siècle</a>
-           <a href="#">19ème siècle</a>
-           <a href="#">20ème siècle</a>
-           <a href="#">21ème siècle</a>
+           <a href="#">Techniques</a>
+            <a href="#">Sauvetage des personnes</a>
+            <a href="#">Va et vient</a>
+           <a href="#">Matériel</a>
+           <a href="#">Moyens Maritimes</a>
          </div>
         </div>
         <div class="dropdown">
@@ -48,9 +49,13 @@
          </div>
         </div>
         <div class="dropdown">
-         <button class="dropbtn">Historique</button>
-         <div class="dropdown-content">
-           <a href="#">Dunkerque</a>
+          <button class="dropbtn">Historique</button>
+          <div class="dropdown-content">
+            <a href="#">18ème siècle</a>
+            <a href="#">19ème siècle</a>
+            <a href="#">20ème siècle</a>
+            <a href="#">21ème siècle</a>
+            <a href="#">Dunkerque</a>
          </div>
         </div>
         <div class="dropdown">
@@ -120,15 +125,20 @@
       <div class="leftFooter">
         <div>
           <div class="contact">
-            <span>Contact:</span>
-            <span>sauveteurdudunkerquois@gmail.com</span>
+            <p>Contact:</p>
+            <p>sauveteurdudunkerquois@gmail.com</p>
             <div>
               <a href="https://www.facebook.com/groups/938396409644949" class="fa fa-facebook"></a>
               <a href="https://twitter.com/boutelierphili1" class="fa fa-twitter"></a>
             </div>
-
           </div>
-          <div class="partenaires"></div>
+          <div class="partenaires">
+            <p>Partenaires:</p>
+            <div>
+              <a href="https://www.snsm.org/"><img src="data/logo_SNSM.svg" alt=""></a>
+              <a href="http://www.les-corsaires-dunkerquois.com/"><img src="data/corsaires_dunkerquois_logo.png" alt=""></a>
+            </div>
+          </div>
         </div>
         <div>
           <span>Livre d'or - Plan du Site</span>
