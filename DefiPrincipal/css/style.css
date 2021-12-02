@@ -35,6 +35,16 @@ nav {
   background-size: cover;
 }
 
+.caption {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 30%;
+  margin: 10px;
+  background-color: white;
+}
+
+
 @media only screen and (max-device-width: 1366px) {
   .parallax {
     background-attachment: scroll;

@@ -9,7 +9,7 @@
   </head>
   <body>
     <div class="parallax"></div>
-    <span>
+    <span class="caption">
         <img src="data/Banniere.jpg" alt="Port de Dunkerque">
     </span>
     <header>
