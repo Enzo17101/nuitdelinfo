@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="css/dropdown.css">
     <link rel="stylesheet" href="css/color1.css">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/footer.css">
   </head>
   <body>
     <div class="parallax"></div>
@@ -118,21 +119,17 @@
 
     <footer>
       <div class="leftFooter">
-        <div>
+        <div class="leftUpFooter">
           <div class="contact">
-            <p>Contact:</p>
-            <p>sauveteurdudunkerquois@gmail.com</p>
-            <div>
-              <a href="https://www.facebook.com/groups/938396409644949" class="fa fa-facebook"></a>
-              <a href="https://twitter.com/boutelierphili1" class="fa fa-twitter"></a>
-            </div>
+            <p id="titleFooter">Contact:</p>
+            <p id="email">sauveteurdudunkerquois@gmail.com</p>
+            <a href="https://www.facebook.com/groups/938396409644949" class="fa fa-facebook"></a>
+            <a href="https://twitter.com/boutelierphili1" class="fa fa-twitter"></a>
           </div>
           <div class="partenaires">
-            <p>Partenaires:</p>
-            <div>
-              <a href="https://www.snsm.org/"><img src="data/logo_SNSM.svg" alt=""></a>
-              <a href="http://www.les-corsaires-dunkerquois.com/"><img src="data/corsaires_dunkerquois_logo.png" alt=""></a>
-            </div>
+            <p id="titleFooter">Partenaires:</p>
+            <a href="https://www.snsm.org/"><img src="data/logo_SNSM.svg" alt="" sizes="(max-height: 60px) 1000px"></a>
+            <a href="http://www.les-corsaires-dunkerquois.com/"><img src="data/corsaires_dunkerquois_logo.png" alt="" sizes="(max-height: 60px) 1000px"></a>
           </div>
         </div>
         <div>
