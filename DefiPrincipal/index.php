@@ -37,6 +37,7 @@
            <a href="#">Malo-les-bains</a>
            <a href="#">Bray-Dunes</a>
          </div>
+         </div>
          <div class="dropdown">
           <button class="dropbtn">Services du port</button>
           <div class="dropdown-content">
