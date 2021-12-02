@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Sauveteurs du dunkerquois</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="css/dropdown.css">
     <link rel="stylesheet" href="css/color1.css">
     <link rel="stylesheet" href="css/style.css">
@@ -114,6 +115,28 @@
     </div>
 
     <div class="parallax"></div>
+
+    <footer>
+      <div class="leftFooter">
+        <div>
+          <div class="contact">
+            <span>Contact:</span>
+            <span>sauveteurdudunkerquois@gmail.com</span>
+            <div>
+              <a href="https://www.facebook.com/groups/938396409644949" class="fa fa-facebook"></a>
+              <a href="https://twitter.com/boutelierphili1" class="fa fa-twitter"></a>
+            </div>
+
+          </div>
+          <div class="partenaires"></div>
+        </div>
+        <div>
+          <span>Livre d'or - Plan du Site</span>
+        </div>
+      </div>
+      <div class="news">
+      </div>
+    </footer>
 
 
 
