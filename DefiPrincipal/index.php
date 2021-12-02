@@ -12,7 +12,7 @@
   <body>
     <div class="parallax"></div>
     <div class="caption">
-        <img src="data/Banniere.jpg" alt="Port de Dunkerque">
+        <img src="/nuitdelinfo/DefiPrincipal/data/Banniere.jpg" alt="Port de Dunkerque">
     </div>
     <div class="parallax"></div>
     <header>
