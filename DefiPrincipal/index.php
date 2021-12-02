@@ -103,7 +103,7 @@
     <div class="captiontxt">
       <span class="main">
         La citation ci-dessous, signée Arsène Bossu, à un journaliste du Grand Echo du Nord de la France en 1932, résume à elle seule l’état d’esprit des sauveteurs du Dunkerquois.
-        <br>
+        <br><br>
         <span class="citation">
           Les sauvetages? Mais tout le monde en fait … <br>
           Si un homme tombe dans la « Baille » <br>
@@ -112,6 +112,8 @@
         </span>
       </span>
     </div>
+
+    <div class="parallax"></div>
 
 
 
