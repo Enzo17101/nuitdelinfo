@@ -24,7 +24,7 @@ nav {
   background-image: url("../data/Banniere.jpg");
 
   /* Set a specific height */
-  max-height: 80%;
+  height: 80%;
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
