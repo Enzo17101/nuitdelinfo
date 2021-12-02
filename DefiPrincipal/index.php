@@ -43,6 +43,14 @@
             <a href="#">Flèche Delvigne</a>
             <a href="#">Sauveteur Ceinture 1860</a>
            <a href="#">Moyens Maritimes</a>
+           <div class="dropdown-content">
+           <a href="#">Les canots dunkerquois</a>
+           <a href="#">canots-fort mardyckois</a>
+           <a href="#">Les canots gravelinois</a>
+           <a href="#">Canot Malo-les-bains</a>
+           <a href="#">Pilotage les moyens maritimes</a>
+           <a href="#">Remorqueurs Dunkerquois</a>
+         </div>
          </div>
         </div>
         <div class="dropdown">
@@ -65,27 +73,7 @@
             <a href="#">Sauveteurs-ailleurs</a>
          </div>
          </div>
-         <div class="dropdown">
-          <button class="dropbtn">Services du port</button>
-          <div class="dropdown-content">
-            <a href="#">Douane</a>
-            <a href="#">Lamanage</a>
-            <a href="#">Pilotage</a>
-            <a href="#">Pont et Chaussées</a>
-            <a href="#">Remorquages</a>
-          </div>
         </div>
-        <div class="dropdown">
-         <button class="dropbtn">Moyens maritimes</button>
-         <div class="dropdown-content">
-           <a href="#">Les canots dunkerquois</a>
-           <a href="#">canots-fort mardyckois</a>
-           <a href="#">Les canots gravelinois</a>
-           <a href="#">Canot Malo-les-bains</a>
-           <a href="#">Pilotage les moyens maritimes</a>
-           <a href="#">Remorqueurs Dunkerquois</a>
-         </div>
-       </div>
         <div class="dropdown">
           <button class="dropbtn">Historique</button>
           <div class="dropdown-content">
