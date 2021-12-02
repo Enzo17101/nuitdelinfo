@@ -20,7 +20,7 @@ nav {
 
 .parallax {
   /* The image used */
-  background-image: url("data/Banniere.jpg");
+  background-image: url("../data/Banniere.jpg");
 
   /* Set a specific height */
   height: 100%;
