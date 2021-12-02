@@ -7,7 +7,6 @@
     <link rel="stylesheet" href="/nuitdelinfo/DefiPrincipal/css/dropdown.css">
     <link rel="stylesheet" href="/nuitdelinfo/DefiPrincipal/css/color1.css">
     <link rel="stylesheet" href="/nuitdelinfo/DefiPrincipal/css/style.css">
-    <link rel="stylesheet" href="/nuitdelinfo/DefiPrincipal/css/footer.css">
   </head>
   <body>
     <div class="parallax"></div>
@@ -104,9 +103,50 @@
 
     <div class="parallax"></div>
 
-    <?php include '/var/www/html/nuitdelinfo/DefiPrincipal/php/main.php' ?>
+    <?php
+    var_dump($_SERVER);
+    if ($_SERVER['SERVER_NAME'].$_SERVER['PHP_SELF'] == 'https://les-roseaux.dev/nuitdelinfo/DefiPrincipal/index.php' OR $_SERVER['SERVER_NAME'].$_SERVER['PHP_SELF'] == 'https://les-roseaux.dev/nuitdelinfo/DefiPrincipal/') {
+      include '/var/www/html/nuitdelinfo/DefiPrincipal/php/main.php';
+    }?>
 
-    <?php include '/var/www/html//nuitdelinfo/DefiPrincipal/php/footer.php' ?>
+    <div class="parallax"></div>
+
+    <footer>
+      <div class="leftFooter">
+        <div class="leftUpFooter">
+          <div class="contact">
+            <p id="titleFooter">Contact:</p>
+            <p id="email">sauveteurdudunkerquois@gmail.com</p>
+            <a href="https://www.facebook.com/groups/938396409644949" class="fa fa-facebook"></a>
+            <a href="https://twitter.com/boutelierphili1" class="fa fa-twitter"></a>
+          </div>
+          <div class="partenaires">
+            <p id="titleFooter">Partenaires:</p>
+            <a href="https://www.snsm.org/"><img src="data/logo_SNSM.svg" alt=""></a>
+            <a href="http://www.les-corsaires-dunkerquois.com/"><img src="data/corsaires_dunkerquois_logo.png" alt=""></a>
+          </div>
+          <form action="" method="get" class="newsletter_form">
+            <p class="newsletter_title">S'abonner à la newsletter du site</p>
+            <div class="newsletter">
+              <div class="coordonnees">
+                <label for="nom">Nom :</label>
+                <input type="text" name="nom" id="nom" required>
+                <label for="mail">E-mail :</label>
+                <input type="text" name="mail" id="mail" required>
+              </div>
+              <input type="submit" value="S'abonner !">
+            </div>
+          </form>
+            
+          </div>
+        </div>
+        <div>
+          <span>Livre d'or - Plan du Site</span>
+        </div>
+      </div>
+      <div class="news">
+      </div>
+    </footer>
 
 
 

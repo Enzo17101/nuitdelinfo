@@ -21,5 +21,3 @@
   <div class="news">
   </div>
 </footer>
-
-<div class="parallax"></div>
