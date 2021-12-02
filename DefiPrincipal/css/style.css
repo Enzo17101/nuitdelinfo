@@ -76,6 +76,10 @@ p {
   padding: 18px;
 }
 
+.citation {
+  font-size: 2em;
+  font-style: italic;
+}
 
 @media only screen and (max-device-width: 1366px) {
   .parallax {
