@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Sauveteurs du dunkerquois</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="css/dropdown.css">
     <link rel="stylesheet" href="css/color1.css">
     <link rel="stylesheet" href="css/style.css">
@@ -27,7 +28,7 @@
          </div>
         </div>
         <div class="dropdown">
-         <button class="dropbtn">Sorties en mer</button>
+         <button class="dropbtn">Sauvetage</button>
          <div class="dropdown-content">
            <a href="#">18ème siècle</a>
            <a href="#">19ème siècle</a>
@@ -36,7 +37,7 @@
          </div>
         </div>
         <div class="dropdown">
-         <button class="dropbtn">Stations</button>
+         <button class="dropbtn">Port</button>
          <div class="dropdown-content">
            <a href="#">Dunkerque</a>
            <a href="#">Gravelines</a>
@@ -47,13 +48,13 @@
          </div>
         </div>
         <div class="dropdown">
-         <button class="dropbtn">Services du port</button>
+         <button class="dropbtn">Historique</button>
          <div class="dropdown-content">
            <a href="#">Dunkerque</a>
          </div>
         </div>
         <div class="dropdown">
-         <button class="dropbtn">Moyens maritimes</button>
+         <button class="dropbtn">Complément</button>
          <div class="dropdown-content">
            <a href="#">Dunkerque</a>
          </div>
@@ -114,6 +115,28 @@
     </div>
 
     <div class="parallax"></div>
+
+    <footer>
+      <div class="leftFooter">
+        <div>
+          <div class="contact">
+            <span>Contact:</span>
+            <span>sauveteurdudunkerquois@gmail.com</span>
+            <div>
+              <a href="https://www.facebook.com/groups/938396409644949" class="fa fa-facebook"></a>
+              <a href="https://twitter.com/boutelierphili1" class="fa fa-twitter"></a>
+            </div>
+
+          </div>
+          <div class="partenaires"></div>
+        </div>
+        <div>
+          <span>Livre d'or - Plan du Site</span>
+        </div>
+      </div>
+      <div class="news">
+      </div>
+    </footer>
 
 
 
