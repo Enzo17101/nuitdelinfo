@@ -150,6 +150,7 @@
             <a href="https://www.snsm.org/"><img src="data/logo_SNSM.svg" alt=""></a>
             <a href="http://www.les-corsaires-dunkerquois.com/"><img src="data/corsaires_dunkerquois_logo.png" alt=""></a>
           </div>
+          <div class=""></div>
         </div>
         <div>
           <span>Livre d'or - Plan du Site</span>
