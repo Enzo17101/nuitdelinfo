@@ -13,8 +13,8 @@
        <button class="dropbtn">Sauveteurs</button>
        <div class="dropdown-content">
          <a href="#">Tableau d'honneur</a>
-         <a href="#">Qui étaient-ils</a>
-         <a href="#">Que faisaient-ils</a>
+         <a href="#">Qui étaient-ils ?</a>
+         <a href="#">Que faisaient-ils ?</a>
          <a href="#">Paroles de</a>
          <a href="#">Gratifications</a>
          <a href="#">Sauveteurs ailleurs</a>
