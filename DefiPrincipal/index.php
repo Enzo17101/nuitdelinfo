@@ -28,7 +28,7 @@
          </div>
         </div>
         <div class="dropdown">
-         <button class="dropbtn">Sorties en mer</button>
+         <button class="dropbtn">Sauvetage</button>
          <div class="dropdown-content">
            <a href="#">18ème siècle</a>
            <a href="#">19ème siècle</a>
@@ -37,7 +37,7 @@
          </div>
         </div>
         <div class="dropdown">
-         <button class="dropbtn">Stations</button>
+         <button class="dropbtn">Port</button>
          <div class="dropdown-content">
            <a href="#">Dunkerque</a>
            <a href="#">Gravelines</a>
@@ -48,13 +48,13 @@
          </div>
         </div>
         <div class="dropdown">
-         <button class="dropbtn">Services du port</button>
+         <button class="dropbtn">Historique</button>
          <div class="dropdown-content">
            <a href="#">Dunkerque</a>
          </div>
         </div>
         <div class="dropdown">
-         <button class="dropbtn">Moyens maritimes</button>
+         <button class="dropbtn">Complément</button>
          <div class="dropdown-content">
            <a href="#">Dunkerque</a>
          </div>
