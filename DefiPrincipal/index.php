@@ -62,26 +62,32 @@
         <div class="dropdown">
          <button class="dropbtn">Complément</button>
          <div class="dropdown-content">
-           <a href="#">Dunkerque</a>
+           <a href="#">Art et sauvetages</a>
+           <a href="#">Bibliographie</a>
+           <a href="#">Décorations et récompenses</a>
+           <a href="#">Description des bateaux</a>
+           <a href="#">Galerie photo</a>
+           <a href="#">Fortunes de mer</a>
          </div>
         </div>
         <div class="dropdown">
          <button class="dropbtn">Techniques</button>
          <div class="dropdown-content">
-           <a href="#">Dunkerque</a>
+           <a href="#">Matériel</a>
+           <a href="#">Sauvetage de personnes</a>
+           <a href="#">Va-et-vient</a>
          </div>
         </div>
         <div class="dropdown">
          <button class="dropbtn">Historique</button>
          <div class="dropdown-content">
-           <a href="#">Dunkerque</a>
+           <a href="#">Ephéméride du sauvetage</a>
+           <a href="#">40 ans de société Humaine</a>
+           <a href="#">Société centrale de Sauvetage des Naufragés</a>
+           <a href="#">Société nationale de sauvetage en mer</a>
+           <a href="#">Les comités locaux</a>
          </div>
         </div>
-        <div class="dropdown">
-         <button class="dropbtn">Compléments</button>
-         <div class="dropdown-content">
-           <a href="#">Arts et sauvetage</a>
-         </div>
         </div>
         <div class="dropdown">
          <button class="dropbtn">Estaminet</button>
