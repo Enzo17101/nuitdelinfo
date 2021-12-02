@@ -9,7 +9,7 @@
   </head>
   <body>
     <header>
-      <img src="data/Banniere.jpg" alt="Plage de dunkerque">
+      <img src="data/Banniere.jpg" alt="Plage de dunkerque" class="banniere">
       <nav>
         <div class="dropdown">
          <button class="dropbtn">Sauveteurs</button>
