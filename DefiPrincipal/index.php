@@ -4,10 +4,10 @@
     <meta charset="utf-8">
     <title>Sauveteurs du dunkerquois</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="css/dropdown.css">
-    <link rel="stylesheet" href="css/color1.css">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/footer.css">
+    <link rel="stylesheet" href="/nuitdelinfo/DefiPrincipal/css/dropdown.css">
+    <link rel="stylesheet" href="/nuitdelinfo/DefiPrincipal/css/color1.css">
+    <link rel="stylesheet" href="/nuitdelinfo/DefiPrincipal/css/style.css">
+    <link rel="stylesheet" href="/nuitdelinfo/DefiPrincipal/css/footer.css">
   </head>
   <body>
     <div class="parallax"></div>
