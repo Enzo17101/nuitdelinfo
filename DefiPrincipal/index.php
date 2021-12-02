@@ -102,8 +102,6 @@
 
     <?php include '/var/www/html/nuitdelinfo/DefiPrincipal/php/main.php' ?>
 
-    <?php include '/var/www/html//nuitdelinfo/DefiPrincipal/php/footer.php' ?>
-
 
 
   </body>

@@ -27,3 +27,5 @@ sous-patron des canots de sauvetage, patron de remorqueur, etc.</p>
 
   </body>
 </html>
+
+<?php include '/var/www/html//nuitdelinfo/DefiPrincipal/php/footer.php' ?>

@@ -26,3 +26,5 @@
     </span>
   </span>
 </div>
+
+<?php include '/var/www/html//nuitdelinfo/DefiPrincipal/php/footer.php' ?>
