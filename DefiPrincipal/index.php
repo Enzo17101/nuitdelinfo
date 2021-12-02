@@ -85,7 +85,7 @@
     <div class="parallax"></div>
 
 
-    <div class="main">
+    <span class="main">
       <p>Bienvenue sur le site des sauveteurs du dunkerquois. Ce site rend
         hommage aux femmes, hommes et enfants qui ont réalisé des actes de
         sauvetages en milieu aquatique.</p>
@@ -94,7 +94,7 @@
         plus de 1100 sauvetages individuels. Œuvrant avec courage, abnégation et
          souvent au mépris du risque ils méritent amplement que leurs actes
          soient pérennisés. </p>
-    </div>
+    </span>
 
 
   </body>
