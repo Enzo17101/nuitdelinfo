@@ -40,6 +40,42 @@
          <a href="#">Sauveteurs-ailleurs</a>
        </div>
       </div>
+      <div class="dropdown">
+       <button class="dropbtn">Services du port</button>
+       <div class="dropdown-content">
+         <a href="#">Dunkerque</a>
+       </div>
+      </div>
+      <div class="dropdown">
+       <button class="dropbtn">Moyens maritimes</button>
+       <div class="dropdown-content">
+         <a href="#">Dunkerque</a>
+       </div>
+      </div>
+      <div class="dropdown">
+       <button class="dropbtn">Techniques</button>
+       <div class="dropdown-content">
+         <a href="#">Dunkerque</a>
+       </div>
+      </div>
+      <div class="dropdown">
+       <button class="dropbtn">Historique</button>
+       <div class="dropdown-content">
+         <a href="#">Dunkerque</a>
+       </div>
+      </div>
+      <div class="dropdown">
+       <button class="dropbtn">Compléments</button>
+       <div class="dropdown-content">
+         <a href="#">Dunkerque</a>
+       </div>
+      </div>
+      <div class="dropdown">
+       <button class="dropbtn">Estaminet</button>
+       <div class="dropdown-content">
+         <a href="#">Dunkerque</a>
+       </div>
+      </div>
     </header>
 
   </body>
