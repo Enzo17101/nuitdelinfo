@@ -2,3 +2,8 @@ html {
   border: 0px;
   padding: 0px;
 }
+
+header {
+  width: 80%;
+  margin-left: 10%;
+}

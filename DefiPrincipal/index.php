@@ -72,9 +72,6 @@
       </div>
       <div class="dropdown">
        <button class="dropbtn">Estaminet</button>
-       <div class="dropdown-content">
-         <a href="#">Dunkerque</a>
-       </div>
       </div>
     </header>
 
