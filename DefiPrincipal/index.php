@@ -132,7 +132,7 @@
                 <input type="text" name="mail" id="mail" required>
               </div>
               <input type="submit" value="S'abonner !">
-            </div>    
+            </div>
           </form>
             
           </div>
