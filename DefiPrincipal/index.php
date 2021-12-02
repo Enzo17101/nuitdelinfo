@@ -84,18 +84,20 @@
 
     <div class="parallax"></div>
 
+    <div class="caption">
+      <span class="main">
+        Bienvenue sur le site des sauveteurs du dunkerquois. Ce site rend
+        hommage aux femmes, hommes et enfants qui ont réalisé des actes de
+        sauvetages en milieu aquatique.
+        <br>
+        Ces sauveteurs, habitants du dunkerquois (de Bray-Dunes à
+        Grand-Fort-Philippe), ont participé à plus de 900 sauvetages en mer et
+        plus de 1100 sauvetages individuels. Œuvrant avec courage, abnégation et
+        souvent au mépris du risque ils méritent amplement que leurs actes
+        soient pérennisés.
+      </span>
+    </div>
 
-    <span class="main">
-      Bienvenue sur le site des sauveteurs du dunkerquois. Ce site rend
-      hommage aux femmes, hommes et enfants qui ont réalisé des actes de
-      sauvetages en milieu aquatique.
-      <br>
-      Ces sauveteurs, habitants du dunkerquois (de Bray-Dunes à
-      Grand-Fort-Philippe), ont participé à plus de 900 sauvetages en mer et
-      plus de 1100 sauvetages individuels. Œuvrant avec courage, abnégation et
-      souvent au mépris du risque ils méritent amplement que leurs actes
-      soient pérennisés.
-    </span>
 
 
   </body>
