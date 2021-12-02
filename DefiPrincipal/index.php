@@ -104,7 +104,6 @@
     <div class="parallax"></div>
 
     <?php
-    var_dump($_SERVER);
     if ($_SERVER['SCRIPT_NAME'] == '/nuitdelinfo/DefiPrincipal/index.php') {
       include '/var/www/html/nuitdelinfo/DefiPrincipal/php/main.php';
     }?>
@@ -137,7 +136,7 @@
               <input type="submit" value="S'abonner !">
             </div>
           </form>
-            
+
           </div>
         </div>
         <div>
