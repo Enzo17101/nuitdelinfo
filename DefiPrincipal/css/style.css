@@ -49,7 +49,11 @@ nav {
 
 .caption img {
   width: 100%;
+}
 
+.main {
+  background-color: rgb(165, 210, 236);
+  color: black;
 }
 
 
