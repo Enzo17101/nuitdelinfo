@@ -42,6 +42,14 @@ nav {
   width: 30%;
   margin: 10px;
   background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.caption img {
+  width: 50%;
+
 }
 
 
