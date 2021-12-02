@@ -20,49 +20,22 @@
         <div class="dropdown">
          <button class="dropbtn">Sauveteurs</button>
          <div class="dropdown-content">
-           <a href="#">Tableau d'honneur</a>
+           <a href="Sauveteurs/TabHonneur.php">Tableau d'honneur</a>
            <a href="#">Qui étaient-ils ?</a>
            <a href="#">Que faisaient-ils ?</a>
-           <a href="#">Paroles de ...</a>
+           <a href="#">Paroles de</a>
            <a href="#">Gratifications</a>
            <a href="#">Sauveteurs ailleurs</a>
          </div>
         </div>
         <div class="dropdown">
-         <button class="dropbtn">Sauvetage</button>
+         <button class="dropbtn">Stations</button>
          <div class="dropdown-content">
-           <a href="#">Techniques</a>
-            <a href="#">Sauvetage des personnes</a>
-            <a href="#">Va et vient</a>
-           <a href="#">Matériels</a>
-            <a href="#">Ligne Brunel</a>
-            <a href="#">Ligne Torres</a>
-            <a href="#">Gaffe Legrand</a>
-            <a href="#">Canon porte amarre</a>
-            <a href="#">Fusil porte-Amarre</a>
-            <a href="#">Flèche Delvigne</a>
-            <a href="#">Sauveteur Ceinture 1860</a>
-           <a href="#">Moyens Maritimes</a>
-         </div>
-        </div>
-        <div class="dropdown">
-         <button class="dropbtn">Port</button>
-         <div class="dropdown-content">
-          <a href="#">Services</a>
-          <a href="#">Douanes</a>
-            <a href="#">Lamanage</a>
-            <a href="#">Pilotage</a>
-            <a href="#">Ponts-et-Chaussées</a>
-              <a href="#">Phares-et-Balises</a>
-              <a href="#">Marégraphe</a>
-            <a href="#">Remorquage</a>
-          <a href="#">Stations</a>
-            <a href="#">Dunkerque</a>
-            <a href="#">Gravelines</a>
-            <a href="#">Fort-Mardyck</a>
-            <a href="#">Malo-les-bains</a>
-            <a href="#">Bray-Dunes</a>
-            <a href="#">Sauveteurs-ailleurs</a>
+           <a href="#">Dunkerque</a>
+           <a href="#">Gravelines</a>
+           <a href="#">Fort-Mardyck</a>
+           <a href="#">Malo-les-bains</a>
+           <a href="#">Bray-Dunes</a>
          </div>
          </div>
          <div class="dropdown">
@@ -89,17 +62,10 @@
         <div class="dropdown">
           <button class="dropbtn">Historique</button>
           <div class="dropdown-content">
-            <a href="#">Sorties de mer</a>
-              <a href="#">18ème siècle</a>
-              <a href="#">19ème siècle</a>
-              <a href="#">20ème siècle</a>
-              <a href="#">21ème siècle</a>
-              <a href="#">Dunkerque</a>
-            <a href="#">Ephéméride du sauvetage</a>
-            <a href="#">40ans de </a>
-            <a href="#"></a>
-            <a href="#"></a>
-            <a href="#"></a>
+            <a href="#">18ème siècle</a>
+            <a href="#">19ème siècle</a>
+            <a href="#">20ème siècle</a>
+            <a href="#">21ème siècle</a>
          </div>
         </div>
         <div class="dropdown">
