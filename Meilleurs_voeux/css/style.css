@@ -4,6 +4,11 @@ html, body {
   height: 100%;
 }
 
+.Title {
+  text-align: center
+}
+
+
 header {
   width: 80%;
   margin-left: 10%;
@@ -12,28 +17,14 @@ header {
   justify-content: center;
 }
 
-nav {
+.nav_list{
   display: flex;
   flex-direction: row;
   justify-content: space-around;
 }
 
-.parallax {
-  /* The image used */
-  background-image: url("img_parallax.jpg");
-
-  /* Set a specific height */
-  height: 100%;
-
-  /* Create the parallax scrolling effect */
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+.content {
+  display: flex;
+  flex-direction: row;
 }
 
-@media only screen and (max-device-width: 1366px) {
-  .parallax {
-    background-attachment: scroll;
-  }
-}

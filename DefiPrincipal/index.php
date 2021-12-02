@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="css/dropdown.css">
     <link rel="stylesheet" href="css/color1.css">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/footer.css">
   </head>
   <body>
     <div class="parallax"></div>
@@ -63,7 +64,28 @@
             <a href="#">Bray-Dunes</a>
             <a href="#">Sauveteurs-ailleurs</a>
          </div>
+         </div>
+         <div class="dropdown">
+          <button class="dropbtn">Services du port</button>
+          <div class="dropdown-content">
+            <a href="#">Douane</a>
+            <a href="#">Lamanage</a>
+            <a href="#">Pilotage</a>
+            <a href="#">Pont et Chaussées</a>
+            <a href="#">Remorquages</a>
+          </div>
         </div>
+        <div class="dropdown">
+         <button class="dropbtn">Moyens maritimes</button>
+         <div class="dropdown-content">
+           <a href="#">Les canots dunkerquois</a>
+           <a href="#">canots-fort mardyckois</a>
+           <a href="#">Les canots gravelinois</a>
+           <a href="#">Canot Malo-les-bains</a>
+           <a href="#">Pilotage les moyens maritimes</a>
+           <a href="#">Remorqueurs Dunkerquois</a>
+         </div>
+       </div>
         <div class="dropdown">
           <button class="dropbtn">Historique</button>
           <div class="dropdown-content">
@@ -83,26 +105,32 @@
         <div class="dropdown">
          <button class="dropbtn">Complément</button>
          <div class="dropdown-content">
-           <a href="#">Dunkerque</a>
+           <a href="#">Art et sauvetages</a>
+           <a href="#">Bibliographie</a>
+           <a href="#">Décorations et récompenses</a>
+           <a href="#">Description des bateaux</a>
+           <a href="#">Galerie photo</a>
+           <a href="#">Fortunes de mer</a>
          </div>
         </div>
         <div class="dropdown">
          <button class="dropbtn">Techniques</button>
          <div class="dropdown-content">
-           <a href="#">Dunkerque</a>
+           <a href="#">Matériel</a>
+           <a href="#">Sauvetage de personnes</a>
+           <a href="#">Va-et-vient</a>
          </div>
         </div>
         <div class="dropdown">
          <button class="dropbtn">Historique</button>
          <div class="dropdown-content">
-           <a href="#">Dunkerque</a>
+           <a href="#">Ephéméride du sauvetage</a>
+           <a href="#">40 ans de société Humaine</a>
+           <a href="#">Société centrale de Sauvetage des Naufragés</a>
+           <a href="#">Société nationale de sauvetage en mer</a>
+           <a href="#">Les comités locaux</a>
          </div>
         </div>
-        <div class="dropdown">
-         <button class="dropbtn">Compléments</button>
-         <div class="dropdown-content">
-           <a href="#">Arts et sauvetage</a>
-         </div>
         </div>
         <div class="dropdown">
          <button class="dropbtn">Estaminet</button>
@@ -145,22 +173,19 @@
 
     <footer>
       <div class="leftFooter">
-        <div>
+        <div class="leftUpFooter">
           <div class="contact">
-            <p>Contact:</p>
-            <p>sauveteurdudunkerquois@gmail.com</p>
-            <div>
-              <a href="https://www.facebook.com/groups/938396409644949" class="fa fa-facebook"></a>
-              <a href="https://twitter.com/boutelierphili1" class="fa fa-twitter"></a>
-            </div>
+            <p id="titleFooter">Contact:</p>
+            <p id="email">sauveteurdudunkerquois@gmail.com</p>
+            <a href="https://www.facebook.com/groups/938396409644949" class="fa fa-facebook"></a>
+            <a href="https://twitter.com/boutelierphili1" class="fa fa-twitter"></a>
           </div>
           <div class="partenaires">
-            <p>Partenaires:</p>
-            <div>
-              <a href="https://www.snsm.org/"><img src="data/logo_SNSM.svg" alt=""></a>
-              <a href="http://www.les-corsaires-dunkerquois.com/"><img src="data/corsaires_dunkerquois_logo.png" alt=""></a>
-            </div>
+            <p id="titleFooter">Partenaires:</p>
+            <a href="https://www.snsm.org/"><img src="data/logo_SNSM.svg" alt=""></a>
+            <a href="http://www.les-corsaires-dunkerquois.com/"><img src="data/corsaires_dunkerquois_logo.png" alt=""></a>
           </div>
+          <div class=""></div>
         </div>
         <div>
           <span>Livre d'or - Plan du Site</span>
