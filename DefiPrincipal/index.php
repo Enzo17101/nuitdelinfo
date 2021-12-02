@@ -106,9 +106,9 @@
 
     <div class="parallax"></div>
 
-    <?php include '/nuitdelinfo/DefiPrincipal/php/main.php' ?>
+    <?php include '/var/www/html/nuitdelinfo/DefiPrincipal/php/main.php' ?>
 
-    <?php include '/nuitdelinfo/DefiPrincipal/php/footer.php' ?>
+    <?php include '/var/www/html//nuitdelinfo/DefiPrincipal/php/footer.php' ?>
 
 
 
