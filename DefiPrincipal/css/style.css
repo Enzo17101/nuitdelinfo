@@ -10,6 +10,7 @@ header {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  background-color: inherit;
 }
 
 nav {
@@ -23,7 +24,7 @@ nav {
   background-image: url("../data/Banniere.jpg");
 
   /* Set a specific height */
-  height: 100%;
+  max-height: 80%;
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
