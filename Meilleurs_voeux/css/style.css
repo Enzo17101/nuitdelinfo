@@ -17,10 +17,14 @@ header {
   justify-content: center;
 }
 
-
-
 .nav_list{
   display: flex;
   flex-direction: row;
   justify-content: space-around;
 }
+
+.content {
+  display: flex;
+  flex-direction: row;
+}
+
