@@ -29,7 +29,7 @@
          </div>
         </div>
         <div class="dropdown">
-         <button class="dropbtn">Stations</button>
+         <button class="dropbtn">Sauvetage</button>
          <div class="dropdown-content">
            <a href="#">Techniques</a>
             <a href="#">Sauvetage des personnes</a>
@@ -92,29 +92,8 @@
            <a href="#">Description des bateaux</a>
            <a href="#">Galerie photo</a>
            <a href="#">Fortunes de mer</a>
+           <a href="#">Estaminet</a>
          </div>
-        </div>
-        <div class="dropdown">
-         <button class="dropbtn">Techniques</button>
-         <div class="dropdown-content">
-           <a href="#">Matériel</a>
-           <a href="#">Sauvetage de personnes</a>
-           <a href="#">Va-et-vient</a>
-         </div>
-        </div>
-        <div class="dropdown">
-         <button class="dropbtn">Historique</button>
-         <div class="dropdown-content">
-           <a href="#">Ephéméride du sauvetage</a>
-           <a href="#">40 ans de société Humaine</a>
-           <a href="#">Société centrale de Sauvetage des Naufragés</a>
-           <a href="#">Société nationale de sauvetage en mer</a>
-           <a href="#">Les comités locaux</a>
-         </div>
-        </div>
-        </div>
-        <div class="dropdown">
-         <button class="dropbtn">Estaminet</button>
         </div>
       </nav>
     </header>
