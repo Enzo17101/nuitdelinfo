@@ -84,7 +84,7 @@
 
     <div class="parallax"></div>
 
-    <div class="caption">
+    <div class="captiontxt">
       <span class="main">
         Bienvenue sur le site des sauveteurs du dunkerquois. Ce site rend
         hommage aux femmes, hommes et enfants qui ont réalisé des actes de
