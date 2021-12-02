@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="css/style.css">
   </head>
   <body>
-    <div class="parallax">
+    <div class="parallax"></div>
     <header>
       <nav>
         <div class="dropdown">
@@ -78,6 +78,8 @@
       </nav>
     </header>
 
-    </div>
+    <div class="parallax"></div>
+
+    
   </body>
 </html>
