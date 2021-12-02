@@ -20,16 +20,16 @@
         <div class="dropdown">
          <button class="dropbtn">Sauveteurs</button>
          <div class="dropdown-content">
-           <a href="#">Tableau d'honneur</a>
+           <a href="Sauveteurs/TabHonneur.php">Tableau d'honneur</a>
            <a href="#">Qui étaient-ils ?</a>
            <a href="#">Que faisaient-ils ?</a>
-           <a href="#">Paroles de ...</a>
+           <a href="#">Paroles de</a>
            <a href="#">Gratifications</a>
            <a href="#">Sauveteurs ailleurs</a>
          </div>
         </div>
         <div class="dropdown">
-         <button class="dropbtn">Sauvetage</button>
+         <button class="dropbtn">Stations</button>
          <div class="dropdown-content">
            <a href="#">Techniques</a>
             <a href="#">Sauvetage des personnes</a>
@@ -77,17 +77,10 @@
         <div class="dropdown">
           <button class="dropbtn">Historique</button>
           <div class="dropdown-content">
-            <a href="#">Sorties de mer</a>
-              <a href="#">18ème siècle</a>
-              <a href="#">19ème siècle</a>
-              <a href="#">20ème siècle</a>
-              <a href="#">21ème siècle</a>
-              <a href="#">Dunkerque</a>
-            <a href="#">Ephéméride du sauvetage</a>
-            <a href="#">40ans de </a>
-            <a href="#"></a>
-            <a href="#"></a>
-            <a href="#"></a>
+            <a href="#">18ème siècle</a>
+            <a href="#">19ème siècle</a>
+            <a href="#">20ème siècle</a>
+            <a href="#">21ème siècle</a>
          </div>
         </div>
         <div class="dropdown">
