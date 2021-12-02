@@ -69,7 +69,7 @@
         <div class="dropdown">
          <button class="dropbtn">Compléments</button>
          <div class="dropdown-content">
-           <a href="#">Dunkerque</a>
+           <a href="#">Arts et sauvetage</a>
          </div>
         </div>
         <div class="dropdown">
