@@ -12,7 +12,7 @@
   </span>
 </div>
 
-<div class="parallax"></div>
+<div class="parallax2"></div>
 
 <div class="captiontxt">
   <span class="main">
@@ -26,5 +26,6 @@
     </span>
   </span>
 </div>
+<div class="parallax"></div>
 
-<?php include '/var/www/html//nuitdelinfo/DefiPrincipal/php/footer.php' ?>
+<?php include '/var/www/html/nuitdelinfo/DefiPrincipal/php/footer.php' ?>
