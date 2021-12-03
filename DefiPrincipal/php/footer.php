@@ -10,7 +10,7 @@
     <a href="https://www.snsm.org/"><img src="data/logo_SNSM.svg" alt=""></a>
     <a href="http://www.les-corsaires-dunkerquois.com/"><img src="data/corsaires_dunkerquois_logo.png" alt=""></a>
   </div>
-  <div>
+  <div class="news">
     <form action="" method="get" class="newsletter_form">
       <p class="newsletter_title">S'abonner à la newsletter du site</p>
       <div class="newsletter">
@@ -24,7 +24,7 @@
       </div>
     </form>
   </div>
-  <div>
+  <div class="links">
     <span>Livre d'or - Plan du Site</span>
   </div>
 </footer>

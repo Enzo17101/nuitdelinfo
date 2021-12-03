@@ -95,11 +95,13 @@ p {
   font-style: italic;
 }
 
+/* ### FOOTER ### */
+
 footer{
   padding: 10px;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-auto-rows: minmax(100px, auto);
+  grid-auto-rows: minmax(50px, auto);
 }
 
 .leftUpFooter a, #email {
@@ -129,6 +131,13 @@ footer{
   width: 80px;
   height: auto;
 }
+
+.links{
+  grid-column-start: 1;
+  grid-column-end: 4;
+}
+
+/* ### FIN FOOTER ### */
 
 @media only screen and (max-device-width: 1366px) {
   .parallax {
