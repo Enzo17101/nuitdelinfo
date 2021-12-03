@@ -133,6 +133,11 @@ footer{
   height: auto;
 }
 
+.links{
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
+
 /* ### FIN FOOTER ### */
 
 @media only screen and (max-device-width: 1366px) {
