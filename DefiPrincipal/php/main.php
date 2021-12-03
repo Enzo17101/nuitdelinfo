@@ -26,5 +26,6 @@
     </span>
   </span>
 </div>
+<div class="parallax2"></div>
 
 <?php include '/var/www/html//nuitdelinfo/DefiPrincipal/php/footer.php' ?>
