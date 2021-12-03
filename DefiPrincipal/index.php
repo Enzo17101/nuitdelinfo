@@ -26,15 +26,15 @@
         <div class="dropdown">
           <button class="dropbtn">Sauvetage</button>
           <div class="dropdown-content">
+            <a href="#">Techniques</a>
             <div class="dropdown-sub-content">
-              <a href="#">Techniques</a>
               <ul class="niveau2">
                 <li> <a href="#">Sauvetage des personnes</a> </li>
                 <li> <a href="#">Va et vient</a> </li>
               </ul>
             </div>
+            <a href="#">Matériels</a>
             <div class="dropdown-sub-content">
-              <a href="#">Matériels</a>
               <ul class="niveau2">
                 <li> <a href="#">Ligne Brunel</a> </li>
                 <li> <a href="#">Ligne Torres</a> </li>
@@ -45,8 +45,8 @@
                 <li> <a href="#">Sauveteur Ceinture 1860</a> </li>
               </ul>
             </div>
+            <a href="#">Moyens Maritimes</a>
             <div class="dropdown-sub-content">
-              <a href="#">Moyens Maritimes</a>
               <ul class="niveau2">
                 <li> <a href="#">Les canots dunkerquois</a> </li>
                 <li> <a href="#">canots-fort mardyckois</a> </li>
