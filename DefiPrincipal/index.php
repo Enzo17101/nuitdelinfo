@@ -108,7 +108,7 @@
     <div class="parallax"></div>
 
     <?php
-    if ($_SERVER['SERVER_NAME'].$_SERVER['PHP_SCRIPT'] == 'nuitdelinfo/DefiPrincipal/index.php') {
+    if ($_SERVER['SERVER_SCRIPT'] == 'nuitdelinfo/DefiPrincipal/index.php') {
       include '/var/www/html/nuitdelinfo/DefiPrincipal/php/main.php';
     }?>
 
