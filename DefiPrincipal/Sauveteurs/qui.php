@@ -1,3 +1,9 @@
+<?php
+
+include "../index.php";
+
+?>
+
 <div class="captiontxt">
   <span class="main">
     Si tous nos sauveteurs n’ont pas eu la Légion d’Honneur, ils n’en ont pas
