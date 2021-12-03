@@ -45,7 +45,7 @@
               <li> <a href="#">Canon porte amarre</a> </li>
               <li> <a href="#">Fusil porte-Amarre</a> </li>
               <li> <a href="#">Flèche Delvigne</a> </li>
-              <li> <a href="#">Sauveteur Ceinture 1860</a> </li> 
+              <li> <a href="#">Sauveteur Ceinture 1860</a> </li>
             </ul>
           </div>
           <div class="dropdown-content">
@@ -56,7 +56,7 @@
               <li> <a href="#">Les canots gravelinois</a> </li>
               <li> <a href="#">Canot Malo-les-bains</a> </li>
               <li> <a href="#">Pilotage les moyens maritimes</a> </li>
-              <li> <a href="#">Remorqueurs Dunkerquois</a> </li> 
+              <li> <a href="#">Remorqueurs Dunkerquois</a> </li>
             </ul>
           </div>
         </div>
@@ -108,49 +108,11 @@
     <div class="parallax"></div>
 
     <?php
-    var_dump($_SERVER);
     if ($_SERVER['SERVER_NAME'].$_SERVER['PHP_SELF'] == 'https://les-roseaux.dev/nuitdelinfo/DefiPrincipal/index.php' OR $_SERVER['SERVER_NAME'].$_SERVER['PHP_SELF'] == 'https://les-roseaux.dev/nuitdelinfo/DefiPrincipal/') {
       include '/var/www/html/nuitdelinfo/DefiPrincipal/php/main.php';
     }?>
 
     <div class="parallax"></div>
-
-    <footer>
-      <div class="leftFooter">
-        <div class="leftUpFooter">
-          <div class="contact">
-            <p id="titleFooter">Contact:</p>
-            <p id="email">sauveteurdudunkerquois@gmail.com</p>
-            <a href="https://www.facebook.com/groups/938396409644949" class="fa fa-facebook"></a>
-            <a href="https://twitter.com/boutelierphili1" class="fa fa-twitter"></a>
-          </div>
-          <div class="partenaires">
-            <p id="titleFooter">Partenaires:</p>
-            <a href="https://www.snsm.org/"><img src="data/logo_SNSM.svg" alt=""></a>
-            <a href="http://www.les-corsaires-dunkerquois.com/"><img src="data/corsaires_dunkerquois_logo.png" alt=""></a>
-          </div>
-          <form action="" method="get" class="newsletter_form">
-            <p class="newsletter_title">S'abonner à la newsletter du site</p>
-            <div class="newsletter">
-              <div class="coordonnees">
-                <label for="nom">Nom :</label>
-                <input type="text" name="nom" id="nom" required>
-                <label for="mail">E-mail :</label>
-                <input type="text" name="mail" id="mail" required>
-              </div>
-              <input type="submit" value="S'abonner !">
-            </div>
-          </form>
-            
-          </div>
-        </div>
-        <div>
-          <span>Livre d'or - Plan du Site</span>
-        </div>
-      </div>
-      <div class="news">
-      </div>
-    </footer>
 
 
   </body>
