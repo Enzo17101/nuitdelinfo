@@ -14,7 +14,7 @@
     <form action="" method="get" class="newsletter_form">
       <p id="titleFooter">Newsletter:</p>
       <div class="newsletter">
-        <div class="coordonnees">
+        <div class="coords">
           <div>
             <label for="nom">Nom :</label>
             <input type="text" name="nom" id="nom" required>

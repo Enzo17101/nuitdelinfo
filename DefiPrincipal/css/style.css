@@ -134,8 +134,8 @@ footer{
   grid-column-end: 3;
 }
 
-.coordonnees div{
-  margin: 16 0px;
+.coords div{
+  margin-bottom: 16px;
 }
 
 /* ### FIN FOOTER ### */
