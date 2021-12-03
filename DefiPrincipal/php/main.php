@@ -12,7 +12,7 @@
   </span>
 </div>
 
-<div class="parallax-2"></div>
+<div class="parallax2"></div>
 
 <div class="captiontxt">
   <span class="main">
