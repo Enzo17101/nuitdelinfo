@@ -98,10 +98,12 @@ p {
 /* ### FOOTER ### */
 
 footer{
-  padding: 10px;
+  padding: 15px;
+  padding-top: 30px;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-auto-rows: minmax(50px, auto);
+  align-items: center;
 }
 
 .leftUpFooter a, #email {
