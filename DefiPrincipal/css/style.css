@@ -26,6 +26,12 @@ p {
   margin: 0px;
 }
 
+.headImg{
+  background-image: url("/nuitdelinfo/DefiPrincipal/data/Banniere.jpg");
+  background-position: cover;
+  height: 400px;
+}
+
 .parallax {
   /* The image used */
   background-image: url("../data/Banner.jpg");

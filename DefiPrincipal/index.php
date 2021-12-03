@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="/nuitdelinfo/DefiPrincipal/css/style.css">
   </head>
   <body>
-    <img src="/nuitdelinfo/DefiPrincipal/data/Banniere.jpg" alt="Port de Dunkerque">
+    <div class="headImg"></div>
     <header>
       <nav>
         <div class="dropdown">
