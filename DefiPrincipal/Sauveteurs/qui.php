@@ -3,7 +3,12 @@
 include "../index.php";
 
 ?>
-
+<!DOCTYPE html>
+<html lang="fr" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Qui sont ils</title>
+  </head>
 <div class="captiontxt">
   <span class="main">
     Si tous nos sauveteurs n’ont pas eu la Légion d’Honneur, ils n’en ont pas

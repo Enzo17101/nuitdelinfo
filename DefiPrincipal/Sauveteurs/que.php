@@ -1,3 +1,15 @@
+<?php
+
+include "../index.php";
+
+?>
+
+<!DOCTYPE html>
+<html lang="fr" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Que faisaient-ils</title>
+  </head>
 <div class="captiontxt">
   <span class="main">
     <h3>Douaniers et Sauveteurs</h3>
