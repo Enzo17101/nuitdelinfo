@@ -138,6 +138,10 @@ footer{
   margin: 20px 0;
 }
 
+input[type = submit]{
+  text-align: center;
+}
+
 /* ### FIN FOOTER ### */
 
 @media only screen and (max-device-width: 1366px) {
