@@ -45,7 +45,7 @@ p {
   background-image: url("../data/Banner.jpg");
 
   /* Set a specific height */
-  height: 100px;
+  height: 200px;
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
