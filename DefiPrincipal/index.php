@@ -111,9 +111,5 @@
     if ($_SERVER['SCRIPT_NAME'] == '/nuitdelinfo/DefiPrincipal/index.php') {
       include '/var/www/html/nuitdelinfo/DefiPrincipal/php/main.php';
     }?>
-
-    <div class="parallax"></div>
-
-
   </body>
 </html>
