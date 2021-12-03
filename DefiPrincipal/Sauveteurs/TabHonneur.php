@@ -27,6 +27,7 @@ Les légionnaires et titulaires du Mérite Maritime ont souvent été patron ou
 sous-patron des canots de sauvetage, patron de remorqueur, etc.</p>
   </span>
 </div>
+<div class="parallax"></div>
 
 
 <?php include '/var/www/html/nuitdelinfo/DefiPrincipal/php/footer.php' ?>
