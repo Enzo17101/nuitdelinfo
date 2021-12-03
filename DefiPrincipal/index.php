@@ -20,8 +20,8 @@
          <button class="dropbtn">Sauveteurs</button>
          <div class="dropdown-content">
            <a href="Sauveteurs/TabHonneur.php">Tableau d'honneur</a>
-           <a href="#">Qui étaient-ils ?</a>
-           <a href="#">Que faisaient-ils ?</a>
+           <a href="Sauveteurs/qui.php">Qui étaient-ils ?</a>
+           <a href="Sauveteurs/que.php">Que faisaient-ils ?</a>
            <a href="#">Paroles de</a>
            <a href="#">Gratifications</a>
            <a href="#">Sauveteurs ailleurs</a>
