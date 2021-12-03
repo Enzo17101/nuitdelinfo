@@ -33,7 +33,10 @@
            <a href="#">Techniques</a>
            <ul class="niveau2">
             <li> <a href="#">Sauvetage des personnes</a> </li>
-            <li> <a href="#">Va et vient</a> </li> </ul>
+            <li> <a href="#">Va et vient</a> </li>
+          </ul>
+          </div>
+          <div class="dropdown-content">
            <a href="#">Matériels</a>
            <ul class="niveau2">
             <li> <a href="#">Ligne Brunel</a> </li>
@@ -43,6 +46,7 @@
             <li> <a href="#">Fusil porte-Amarre</a> </li>
             <li> <a href="#">Flèche Delvigne</a> </li>
             <li> <a href="#">Sauveteur Ceinture 1860</a> </li> </ul>
+          </div>
            <a href="#">Moyens Maritimes</a>
            <div class="dropdown-content">
            <ul class="niveau2">
@@ -52,7 +56,6 @@
            <li> <a href="#">Canot Malo-les-bains</a> </li>
            <li> <a href="#">Pilotage les moyens maritimes</a> </li>
            <li> <a href="#">Remorqueurs Dunkerquois</a> </li> </ul>
-         </div>
          </div>
         </div>
         <div class="dropdown">
