@@ -12,7 +12,7 @@
   </div>
   <div class="news">
     <form action="" method="get" class="newsletter_form">
-      <p class="newsletter_title">Newsletter:</p>
+      <p id="titleFooter">Newsletter:</p>
       <div class="newsletter">
         <div class="coordonnees">
           <div>
