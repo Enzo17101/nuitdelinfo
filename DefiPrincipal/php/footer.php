@@ -12,13 +12,17 @@
   </div>
   <div class="news">
     <form action="" method="get" class="newsletter_form">
-      <p class="newsletter_title">S'abonner à la newsletter du site</p>
+      <p class="newsletter_title">Newsletter:</p>
       <div class="newsletter">
         <div class="coordonnees">
-          <label for="nom">Nom :</label>
-          <input type="text" name="nom" id="nom" required>
-          <label for="mail">E-mail :</label>
-          <input type="text" name="mail" id="mail" required>
+          <div>
+            <label for="nom">Nom :</label>
+            <input type="text" name="nom" id="nom" required>
+          </div>
+          <div>
+            <label for="mail">E-mail :</label>
+            <input type="text" name="mail" id="mail" required>
+          </div>
         </div>
         <input type="submit" value="S'abonner !">
       </div>
