@@ -133,10 +133,6 @@ footer{
   height: auto;
 }
 
-.links{
-  text-align: center;
-}
-
 /* ### FIN FOOTER ### */
 
 @media only screen and (max-device-width: 1366px) {
