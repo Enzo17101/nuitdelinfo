@@ -29,7 +29,7 @@ include "../index.php";
       </span>
     </div>
 
-  <?php include '/var/www/html/nuitdelinfo/DefiPrincipal/php/footer.php' ?>
+  <?php include '/nuitdelinfo/DefiPrincipal/php/footer.php' ?>
 
   </body>
 </html>
