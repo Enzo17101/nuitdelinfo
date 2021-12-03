@@ -27,34 +27,40 @@
           <button class="dropbtn">Sauvetage</button>
           <div class="dropdown-content">
             <a href="#">Techniques</a>
-            <div class="dropdown-sub-content">
-              <ul class="niveau2">
-                <li> <a href="#">Sauvetage des personnes</a> </li>
-                <li> <a href="#">Va et vient</a> </li>
-              </ul>
+            <div class="sub-content">
+              <div class="dropdown-sub-content">
+                <ul class="niveau2">
+                  <li> <a href="#">Sauvetage des personnes</a> </li>
+                  <li> <a href="#">Va et vient</a> </li>
+                </ul>
+              </div>
             </div>
             <a href="#">Matériels</a>
-            <div class="dropdown-sub-content">
-              <ul class="niveau2">
-                <li> <a href="#">Ligne Brunel</a> </li>
-                <li> <a href="#">Ligne Torres</a> </li>
-                <li> <a href="#">Gaffe Legrand</a> </li>
-                <li> <a href="#">Canon porte amarre</a> </li>
-                <li> <a href="#">Fusil porte-Amarre</a> </li>
-                <li> <a href="#">Flèche Delvigne</a> </li>
-                <li> <a href="#">Sauveteur Ceinture 1860</a> </li>
-              </ul>
+            <div class="sub-content">
+              <div class="dropdown-sub-content">
+                <ul class="niveau2">
+                  <li> <a href="#">Ligne Brunel</a> </li>
+                  <li> <a href="#">Ligne Torres</a> </li>
+                  <li> <a href="#">Gaffe Legrand</a> </li>
+                  <li> <a href="#">Canon porte amarre</a> </li>
+                  <li> <a href="#">Fusil porte-Amarre</a> </li>
+                  <li> <a href="#">Flèche Delvigne</a> </li>
+                  <li> <a href="#">Sauveteur Ceinture 1860</a> </li>
+                </ul>
+              </div>
             </div>
             <a href="#">Moyens Maritimes</a>
-            <div class="dropdown-sub-content">
-              <ul class="niveau2">
-                <li> <a href="#">Les canots dunkerquois</a> </li>
-                <li> <a href="#">canots-fort mardyckois</a> </li>
-                <li> <a href="#">Les canots gravelinois</a> </li>
-                <li> <a href="#">Canot Malo-les-bains</a> </li>
-                <li> <a href="#">Pilotage les moyens maritimes</a> </li>
-                <li> <a href="#">Remorqueurs Dunkerquois</a> </li>
-              </ul>
+            <div class="sub-content">
+              <div class="dropdown-sub-content">
+                <ul class="niveau2">
+                  <li> <a href="#">Les canots dunkerquois</a> </li>
+                  <li> <a href="#">canots-fort mardyckois</a> </li>
+                  <li> <a href="#">Les canots gravelinois</a> </li>
+                  <li> <a href="#">Canot Malo-les-bains</a> </li>
+                  <li> <a href="#">Pilotage les moyens maritimes</a> </li>
+                  <li> <a href="#">Remorqueurs Dunkerquois</a> </li>
+                </ul>
+              </div>
             </div>
           </div>
         </div>
