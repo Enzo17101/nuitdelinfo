@@ -101,7 +101,7 @@
       </nav>
     </header>
 
-    <div class="parallax"></div>
+    <div class="parallax-2"></div>
 
     <?php
     if ($_SERVER['SCRIPT_NAME'] == '/nuitdelinfo/DefiPrincipal/index.php') {
