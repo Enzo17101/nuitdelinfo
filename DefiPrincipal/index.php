@@ -107,8 +107,7 @@
     if ($_SERVER['SCRIPT_NAME'] == '/nuitdelinfo/DefiPrincipal/index.php') {
       include '/var/www/html/nuitdelinfo/DefiPrincipal/php/main.php';
     }?>
-<<<<<<< HEAD
-=======
+
 
 
 >>>>>>> refs/remotes/origin/main
