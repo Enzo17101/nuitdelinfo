@@ -42,10 +42,10 @@ p {
 
 .parallax2 {
   /* The image used */
-  background-image: url("/var/www/html/nuitdelinfo/DefiPrincipal/data/Banner.jpg");
+  background-image: url("/nuitdelinfo/DefiPrincipal/data/Banner.jpg");
 
   /* Set a specific height */
-  max-height: 200px;
+  height: 200px;
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
