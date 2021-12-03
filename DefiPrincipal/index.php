@@ -28,15 +28,15 @@
          </div>
         </div>
         <div class="dropdown">
+          <button class="dropbtn">Sauvetage</button>
           <div class="dropdown-content">
-            <button class="dropbtn">Sauvetage</button>
             <div class="dropdown-sub-content">
-                <a href="#">Techniques</a>
-                <ul class="niveau2">
-                  <li> <a href="#">Sauvetage des personnes</a> </li>
-                  <li> <a href="#">Va et vient</a> </li>
-                </ul>
-              </div>
+              <a href="#">Techniques</a>
+              <ul class="niveau2">
+                <li> <a href="#">Sauvetage des personnes</a> </li>
+                <li> <a href="#">Va et vient</a> </li>
+              </ul>
+            </div>
             <div class="dropdown-sub-content">
               <a href="#">Matériels</a>
               <ul class="niveau2">
