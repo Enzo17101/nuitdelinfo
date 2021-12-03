@@ -3,6 +3,7 @@
 include "../index.php";
 
 ?>
+
 <!DOCTYPE html>
 <html lang="fr" dir="ltr">
   <head>
@@ -11,6 +12,7 @@ include "../index.php";
   </head>
 <div class="captiontxt">
   <span class="main">
+    <p>
     Si tous nos sauveteurs n’ont pas eu la Légion d’Honneur, ils n’en ont pas
     moins mérité dans leurs multiples  sorties en mer ou dans leurs actes
     individuels.
@@ -31,9 +33,9 @@ include "../index.php";
     <br>
     Les marins qui auront rempli les fonctions de sous-patron voire patron du
     canot de sauvetage  de manière ponctuelle seront aussi cités.
+    </p>
   </span>
 </div>
-
 <div class="parallax"></div>
 
 <?php include '/var/www/html/nuitdelinfo/DefiPrincipal/php/footer.php' ?>
